@@ -1,0 +1,42 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #383A59;
+}
+
+h1 {
+    margin: 300px auto 0px auto;
+    font-size: 100px;
+    text-align: center;
+    color: #EF73BB;
+}
+
+.container {
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 50rem;
+}
+
+input {
+    margin: 20px;
+    width: 75%;
+    height: 10rem;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 50px;
+    background-color: #85DFF2;
+    color: #fff;
+    border: 0;
+}
+
+button {
+    margin: 20px;
+    width: 25%;
+    height: 10rem;
+    border-radius: 7px;
+    font-size: 9rem;
+    background-color: #B38CEC;
+    color: #fff;
+    border: 0;
+}
